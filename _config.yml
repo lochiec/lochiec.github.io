@@ -1,0 +1,12 @@
+# Site settings
+title: Lochie Cameron
+email: lochiecameron@gmail.com
+description: "Coding day in and out!"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
